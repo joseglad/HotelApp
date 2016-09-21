@@ -41,7 +41,7 @@ public class HotelModel {
 		new Hotel("Hotel Etoile","Place de l'Etoile","Paris",4),
 		new Hotel("Hotel Vendome","Place Vendome","Paris",5),
 		new Hotel("Hotel Hilton","Trafalgar Square","London",4),
-		+new Hotel("Hotel Ibis","The City","London",3),
+		+MMMnew Hotel("Hotel Ibis","The City","London",3),
 		
 	};
 	
